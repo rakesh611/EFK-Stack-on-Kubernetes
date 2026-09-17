@@ -1,1 +1,0 @@
-# EFK-Stack-on-Kubernetes
