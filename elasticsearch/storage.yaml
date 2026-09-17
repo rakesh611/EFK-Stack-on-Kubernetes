@@ -1,0 +1,9 @@
+# This file documents the storage requirement.
+# The StatefulSet also contains a volumeClaimTemplate.
+# A default StorageClass is expected in this lab.
+#
+# Check available StorageClasses:
+# kubectl get storageclass
+#
+# If your cluster has no default StorageClass, create or configure
+# a suitable StorageClass before deploying Elasticsearch.
